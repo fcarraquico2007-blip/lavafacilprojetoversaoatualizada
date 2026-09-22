@@ -1,0 +1,4 @@
+ID: 1 | Utilizador: admin | Data/Hora: 2026-07-14 08:18:12
+ID: 1 | Utilizador: admin | Data/Hora: 2026-07-14 08:21:56
+ID: 1 | Utilizador: admin | Data/Hora: 2026-07-14 09:12:14
+ID: 4 | Utilizador: 12345 | Data/Hora: 2026-07-14 21:46:32

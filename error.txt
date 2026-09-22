@@ -1,0 +1,4 @@
+2026-07-14 21:48:23 - getListaSessoes: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'moviesbd.sessao' doesn't exist
+2026-07-14 21:48:41 - getListaSessoes: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'moviesbd.sessao' doesn't exist
+2026-07-14 21:48:42 - getListaSessoes: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'moviesbd.sessao' doesn't exist
+2026-07-14 21:48:42 - getListaSessoes: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'moviesbd.sessao' doesn't exist
